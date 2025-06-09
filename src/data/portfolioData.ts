@@ -80,7 +80,7 @@ export const projects: Project[] = [
     id: 1,
     title: "Browser Automation Using AI Agent",
     description: "An AI-powered system enabling browser automation through natural language using LLMs, LangChain, and Playwright.",
-    image: "images/AI_agent.png",
+    image: "./public/images/AI_agent.png",
     technologies: ["Python", "LangChain", "Playwright", "GPT-4o", "Gemini", "Gradio"],
     github: "https://github.com/Adharsh-goud/AI-Agent-project", 
     demo: "https://drive.google.com/file/d/1I9ifqMJyT93DKRjfX7xN8eCyOH6pyORR/view?usp=drive_link", 
